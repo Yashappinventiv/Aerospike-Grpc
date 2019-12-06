@@ -1,0 +1,15 @@
+{
+  "name": "node-aero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aerospike": "^3.13.0",
+    "express": "^4.17.1"
+  }
+}
